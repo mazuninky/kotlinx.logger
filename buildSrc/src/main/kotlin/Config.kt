@@ -15,9 +15,6 @@ object Config {
         const val minSdkVersion = 19
         const val targetSdkVersion = 27
         const val compileSdkVersion = 27
-        const val applicationId = "xyz.tusion.tusion"
-        const val versionCode = 21
-        const val versionName = "1.3.0"
     }
 
     object Common {
