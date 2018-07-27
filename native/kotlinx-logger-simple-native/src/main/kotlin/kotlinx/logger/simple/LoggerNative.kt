@@ -5,7 +5,7 @@ actual inline fun debug(message: () -> String) {
 }
 
 actual inline fun error(message: () -> String) {
-    System.err.println("ERROR: ${message()}")
+    println("ERROR: ${message()}")
 }
 
 actual inline fun warning(message: () -> String) {

@@ -11,5 +11,4 @@ module("common/kotlinx-logger-simple-common")
 module("jvm/kotlinx-logger-simple-jvm")
 module("android/kotlinx-logger-simple-android")
 module("js/kotlinx-logger-simple-js")
-
-//include("common", "android", "js")
+module("native/kotlinx-logger-simple-native")

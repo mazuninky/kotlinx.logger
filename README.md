@@ -8,8 +8,8 @@ Minimal overhead logger
 - Android
 - Js
 - JVM
-### Planing platforms
 - Native
+### Planing platforms
 - Native/WASM
 ## Logger 
 Reach and hackable multiplatform logging library
